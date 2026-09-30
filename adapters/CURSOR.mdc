@@ -1,0 +1,10 @@
+---
+description: Pedrograd shared repository-aware engineering rules
+alwaysApply: true
+---
+
+Read .ai/my-ai/BOOTSTRAP.md when present.
+Follow the target repository's current architecture and instructions.
+Search existing code and the My-AI knowledge base before adding frameworks or duplicate services.
+Never expose secrets.
+Do not report a change as done until relevant tests and verification pass.
