@@ -2,6 +2,13 @@ name: Refresh AI repository catalog
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "scripts/refresh_catalog.py"
+      - "AI_KNOWLEDGE_BASE.md"
+      - ".github/workflows/refresh-catalog.yml"
   schedule:
     - cron: "23 4 * * *"
 
