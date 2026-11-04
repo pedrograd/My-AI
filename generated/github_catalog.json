@@ -18,20 +18,6 @@
     },
     {
       "relation": "owned",
-      "full_name": "pedrograd/Acnoctem",
-      "html_url": "https://github.com/pedrograd/Acnoctem",
-      "description": null,
-      "fork": false,
-      "private": false,
-      "archived": false,
-      "language": "CSS",
-      "default_branch": "main",
-      "updated_at": "2026-09-29T19:34:34Z",
-      "license": null,
-      "topics": []
-    },
-    {
-      "relation": "owned",
       "full_name": "pedrograd/Agent-Reach",
       "html_url": "https://github.com/pedrograd/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
@@ -82,7 +68,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "main",
-      "updated_at": "2026-10-22T09:30:29Z",
+      "updated_at": "2026-10-23T09:26:29Z",
       "license": null,
       "topics": []
     },
@@ -406,7 +392,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:07:05Z",
+      "updated_at": "2026-11-04T09:13:52Z",
       "license": "AGPL-3.0",
       "topics": [
         "agent",
@@ -439,7 +425,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "master",
-      "updated_at": "2026-10-22T08:23:12Z",
+      "updated_at": "2026-10-30T03:32:25Z",
       "license": "MIT",
       "topics": [
         "chatgpt",
@@ -458,7 +444,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "master",
-      "updated_at": "2026-10-23T09:24:51Z",
+      "updated_at": "2026-11-04T11:52:42Z",
       "license": "AGPL-3.0",
       "topics": [
         "ai",
@@ -505,7 +491,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "main",
-      "updated_at": "2026-10-23T07:42:30Z",
+      "updated_at": "2026-11-04T11:36:09Z",
       "license": "Apache-2.0",
       "topics": [
         "anthropic",
@@ -560,7 +546,7 @@
       "archived": true,
       "language": "Python",
       "default_branch": "main",
-      "updated_at": "2026-10-23T05:54:00Z",
+      "updated_at": "2026-11-04T05:34:47Z",
       "license": "MIT",
       "topics": [
         "ai",
@@ -586,7 +572,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "master",
-      "updated_at": "2026-10-23T09:17:04Z",
+      "updated_at": "2026-11-04T12:14:31Z",
       "license": "AGPL-3.0",
       "topics": [
         "agent",
@@ -619,7 +605,7 @@
       "archived": false,
       "language": "TypeScript",
       "default_branch": "main",
-      "updated_at": "2026-10-23T08:54:39Z",
+      "updated_at": "2026-11-04T10:23:14Z",
       "license": "MIT",
       "topics": [
         "calclaude",
@@ -653,7 +639,7 @@
       "archived": false,
       "language": "C++",
       "default_branch": "master",
-      "updated_at": "2026-10-23T08:55:47Z",
+      "updated_at": "2026-11-04T12:01:49Z",
       "license": "Apache-2.0",
       "topics": [
         "ai",
@@ -686,7 +672,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "main",
-      "updated_at": "2026-10-22T16:57:45Z",
+      "updated_at": "2026-11-02T20:57:08Z",
       "license": "MIT",
       "topics": [],
       "starred": true
@@ -701,7 +687,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "master",
-      "updated_at": "2026-10-23T09:16:57Z",
+      "updated_at": "2026-11-04T12:16:15Z",
       "license": "GPL-3.0",
       "topics": [
         "ai",
@@ -717,13 +703,13 @@
       "relation": "starred",
       "full_name": "D4Vinci/Scrapling",
       "html_url": "https://github.com/D4Vinci/Scrapling",
-      "description": "🕷️ A Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
       "fork": false,
       "private": false,
       "archived": false,
       "language": "Python",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:17:10Z",
+      "updated_at": "2026-11-04T12:18:56Z",
       "license": "BSD-3-Clause",
       "topics": [
         "ai",
@@ -759,7 +745,7 @@
       "archived": false,
       "language": "Java",
       "default_branch": "master",
-      "updated_at": "2026-10-23T08:05:25Z",
+      "updated_at": "2026-11-04T09:17:27Z",
       "license": "GPL-2.0",
       "topics": [
         "telegram"
@@ -776,7 +762,7 @@
       "archived": false,
       "language": null,
       "default_branch": "main",
-      "updated_at": "2026-10-15T05:45:50Z",
+      "updated_at": "2026-11-02T06:41:51Z",
       "license": "CC0-1.0",
       "topics": [
         "aigpts",
@@ -800,7 +786,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "main",
-      "updated_at": "2026-10-22T06:19:26Z",
+      "updated_at": "2026-11-04T10:00:57Z",
       "license": null,
       "topics": [
         "agentgpt",
@@ -836,7 +822,7 @@
       "archived": false,
       "language": "TypeScript",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:24:19Z",
+      "updated_at": "2026-11-04T12:11:33Z",
       "license": "MIT",
       "topics": [
         "ai",
@@ -862,7 +848,7 @@
       "archived": true,
       "language": "TypeScript",
       "default_branch": "main",
-      "updated_at": "2026-10-23T07:51:13Z",
+      "updated_at": "2026-11-04T08:45:08Z",
       "license": "NOASSERTION",
       "topics": [
         "agentic-ai",
@@ -895,7 +881,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:15:32Z",
+      "updated_at": "2026-11-04T11:02:10Z",
       "license": "MIT",
       "topics": [
         "agent",
@@ -916,7 +902,7 @@
       "archived": false,
       "language": "Ruby",
       "default_branch": "main",
-      "updated_at": "2026-10-23T08:37:31Z",
+      "updated_at": "2026-11-04T12:18:05Z",
       "license": "BSD-2-Clause",
       "topics": [
         "brew",
@@ -937,7 +923,7 @@
       "archived": false,
       "language": "Ruby",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:25:32Z",
+      "updated_at": "2026-11-04T12:18:22Z",
       "license": "BSD-2-Clause",
       "topics": [
         "core",
@@ -978,7 +964,7 @@
       "archived": false,
       "language": "Go",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:19:58Z",
+      "updated_at": "2026-11-04T12:16:39Z",
       "license": "Apache-2.0",
       "topics": [
         "ai",
@@ -1004,7 +990,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:25:12Z",
+      "updated_at": "2026-11-04T12:17:11Z",
       "license": "MIT",
       "topics": [
         "agent-skills",
@@ -1037,7 +1023,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "main",
-      "updated_at": "2026-10-23T05:55:01Z",
+      "updated_at": "2026-11-04T11:06:21Z",
       "license": "Apache-2.0",
       "topics": [
         "ai",
@@ -1062,7 +1048,7 @@
       "archived": false,
       "language": "PHP",
       "default_branch": "master",
-      "updated_at": "2026-10-23T09:08:43Z",
+      "updated_at": "2026-11-04T10:05:28Z",
       "license": "AGPL-3.0",
       "topics": [
         "agile",
@@ -1098,7 +1084,7 @@
       "archived": false,
       "language": "JavaScript",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:21:36Z",
+      "updated_at": "2026-11-04T12:18:11Z",
       "license": "MIT",
       "topics": [
         "agent-skills",
@@ -1125,7 +1111,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "main",
-      "updated_at": "2026-10-23T08:15:09Z",
+      "updated_at": "2026-11-04T06:13:26Z",
       "license": "MIT",
       "topics": [
         "awesome",
@@ -1147,7 +1133,7 @@
       "archived": false,
       "language": "TypeScript",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:21:11Z",
+      "updated_at": "2026-11-04T12:16:54Z",
       "license": "MIT",
       "topics": [
         "ai",
@@ -1183,7 +1169,7 @@
       "archived": false,
       "language": "JavaScript",
       "default_branch": "master",
-      "updated_at": "2026-10-23T08:55:58Z",
+      "updated_at": "2026-11-04T12:09:36Z",
       "license": "MIT",
       "topics": [
         "agent-computer",
@@ -1214,7 +1200,7 @@
       "archived": false,
       "language": "Vue",
       "default_branch": "master",
-      "updated_at": "2026-10-23T01:52:03Z",
+      "updated_at": "2026-11-04T05:16:20Z",
       "license": null,
       "topics": [
         "ai",
@@ -1234,7 +1220,7 @@
       "archived": false,
       "language": "TypeScript",
       "default_branch": "master",
-      "updated_at": "2026-10-23T08:25:49Z",
+      "updated_at": "2026-11-04T11:53:15Z",
       "license": "NOASSERTION",
       "topics": [
         "access-token",
@@ -1262,7 +1248,7 @@
       "archived": false,
       "language": "Java",
       "default_branch": "master",
-      "updated_at": "2026-10-23T09:25:06Z",
+      "updated_at": "2026-11-04T12:15:01Z",
       "license": "Apache-2.0",
       "topics": [
         "disassembler",
@@ -1281,7 +1267,7 @@
       "archived": false,
       "language": null,
       "default_branch": "main",
-      "updated_at": "2026-10-21T06:47:24Z",
+      "updated_at": "2026-11-03T23:03:28Z",
       "license": null,
       "topics": [
         "ai",
@@ -1302,7 +1288,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:24:57Z",
+      "updated_at": "2026-11-04T12:17:25Z",
       "license": "MIT",
       "topics": [
         "ai",
@@ -1331,7 +1317,7 @@
       "archived": false,
       "language": "TypeScript",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:15:49Z",
+      "updated_at": "2026-11-04T12:14:39Z",
       "license": "MIT",
       "topics": [
         "agent",
@@ -1356,7 +1342,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:25:28Z",
+      "updated_at": "2026-11-04T12:18:06Z",
       "license": "MIT",
       "topics": [
         "agent-infrastructure",
@@ -1389,7 +1375,7 @@
       "archived": false,
       "language": "JavaScript",
       "default_branch": "main",
-      "updated_at": "2026-10-23T08:11:06Z",
+      "updated_at": "2026-11-04T09:47:56Z",
       "license": "CC0-1.0",
       "topics": [
         "awesome",
@@ -1410,7 +1396,7 @@
       "archived": false,
       "language": null,
       "default_branch": "master",
-      "updated_at": "2026-10-22T11:54:38Z",
+      "updated_at": "2026-11-01T17:43:36Z",
       "license": null,
       "topics": [
         "chatgpt",
@@ -1434,7 +1420,7 @@
       "archived": false,
       "language": null,
       "default_branch": "main",
-      "updated_at": "2026-10-23T08:55:10Z",
+      "updated_at": "2026-11-04T11:46:06Z",
       "license": "MIT",
       "topics": [
         "chat-gpt",
@@ -1455,7 +1441,7 @@
       "archived": false,
       "language": "G-code",
       "default_branch": "main",
-      "updated_at": "2026-10-16T12:58:49Z",
+      "updated_at": "2026-11-04T07:18:30Z",
       "license": "GPL-3.0",
       "topics": [],
       "starred": true
@@ -1470,7 +1456,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:18:35Z",
+      "updated_at": "2026-11-04T11:46:29Z",
       "license": "Apache-2.0",
       "topics": [
         "agents",
@@ -1490,7 +1476,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "master",
-      "updated_at": "2026-10-23T08:57:18Z",
+      "updated_at": "2026-11-04T12:04:33Z",
       "license": "NOASSERTION",
       "topics": [
         "agentic-ai",
@@ -1517,7 +1503,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:25:28Z",
+      "updated_at": "2026-11-04T12:13:21Z",
       "license": "Apache-2.0",
       "topics": [
         "agent",
@@ -1538,7 +1524,7 @@
       "archived": false,
       "language": "Go",
       "default_branch": "main",
-      "updated_at": "2026-10-22T21:26:24Z",
+      "updated_at": "2026-11-04T01:09:49Z",
       "license": "MIT",
       "topics": [
         "ai",
@@ -1574,7 +1560,7 @@
       "archived": false,
       "language": "TypeScript",
       "default_branch": "main",
-      "updated_at": "2026-10-23T06:20:08Z",
+      "updated_at": "2026-11-04T07:49:44Z",
       "license": "MIT",
       "topics": [
         "adhd",
@@ -1608,12 +1594,11 @@
       "archived": false,
       "language": null,
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:21:30Z",
+      "updated_at": "2026-11-04T11:46:39Z",
       "license": "MIT",
       "topics": [
         "agent-skills",
         "ai-agents",
-        "awesome",
         "awesome-list",
         "claude-code",
         "claude-code-skills",
@@ -1623,7 +1608,6 @@
         "cursor",
         "cursor-skills",
         "gemini-skills",
-        "opencode-skills",
         "skills"
       ],
       "starred": true
@@ -1638,7 +1622,7 @@
       "archived": false,
       "language": null,
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:21:55Z",
+      "updated_at": "2026-11-04T11:53:21Z",
       "license": "MIT",
       "topics": [
         "awesome-list",
@@ -1663,7 +1647,7 @@
       "archived": false,
       "language": null,
       "default_branch": "main",
-      "updated_at": "2026-10-20T14:46:00Z",
+      "updated_at": "2026-11-03T18:25:55Z",
       "license": "NOASSERTION",
       "topics": [
         "adhd",
@@ -1682,7 +1666,7 @@
       "archived": false,
       "language": "TypeScript",
       "default_branch": "main",
-      "updated_at": "2026-10-23T08:53:08Z",
+      "updated_at": "2026-11-04T08:32:16Z",
       "license": "NOASSERTION",
       "topics": [
         "ai-image-generation",
@@ -1714,7 +1698,7 @@
       "archived": false,
       "language": "TypeScript",
       "default_branch": "main",
-      "updated_at": "2026-10-23T08:43:08Z",
+      "updated_at": "2026-11-04T12:03:49Z",
       "license": "NOASSERTION",
       "topics": [
         "ai-image-generation",
@@ -1746,7 +1730,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "master",
-      "updated_at": "2026-10-23T09:26:16Z",
+      "updated_at": "2026-11-04T11:46:20Z",
       "license": "MIT",
       "topics": [
         "allinonehackingtool",
@@ -1790,7 +1774,7 @@
       "archived": false,
       "language": null,
       "default_branch": "main",
-      "updated_at": "2026-10-23T08:26:01Z",
+      "updated_at": "2026-11-04T11:51:15Z",
       "license": "MIT",
       "topics": [
         "gemini",
@@ -1814,7 +1798,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "main",
-      "updated_at": "2026-10-23T06:16:05Z",
+      "updated_at": "2026-11-04T06:41:24Z",
       "license": "MIT",
       "topics": [
         "accessibility",
@@ -1847,7 +1831,7 @@
       "archived": false,
       "language": "Rust",
       "default_branch": "main",
-      "updated_at": "2026-10-23T07:56:43Z",
+      "updated_at": "2026-11-04T12:15:03Z",
       "license": "Apache-2.0",
       "topics": [
         "acp",
@@ -1867,7 +1851,7 @@
       "archived": true,
       "language": "Python",
       "default_branch": "main",
-      "updated_at": "2026-10-23T08:51:38Z",
+      "updated_at": "2026-11-04T11:08:42Z",
       "license": "GPL-2.0",
       "topics": [
         "chatgpt",
@@ -1890,7 +1874,7 @@
       "archived": false,
       "language": "PowerShell",
       "default_branch": "main",
-      "updated_at": "2026-10-23T05:53:14Z",
+      "updated_at": "2026-11-04T11:03:27Z",
       "license": "MIT",
       "topics": [],
       "starred": true
@@ -1905,7 +1889,7 @@
       "archived": false,
       "language": "HTML",
       "default_branch": "master",
-      "updated_at": "2026-10-12T12:31:53Z",
+      "updated_at": "2026-10-25T13:25:28Z",
       "license": null,
       "topics": [],
       "starred": true
@@ -1920,7 +1904,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "main",
-      "updated_at": "2026-10-23T07:16:34Z",
+      "updated_at": "2026-10-31T07:23:06Z",
       "license": null,
       "topics": [
         "accessibility",
@@ -1945,7 +1929,7 @@
       "archived": false,
       "language": "JavaScript",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:24:13Z",
+      "updated_at": "2026-11-04T12:18:26Z",
       "license": "MIT",
       "topics": [
         "ai-agents",
@@ -1969,7 +1953,7 @@
       "archived": false,
       "language": "Rust",
       "default_branch": "main",
-      "updated_at": "2026-10-22T12:21:47Z",
+      "updated_at": "2026-11-04T04:36:21Z",
       "license": "MIT",
       "topics": [],
       "starred": true
@@ -1984,7 +1968,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "main",
-      "updated_at": "2026-10-23T03:50:54Z",
+      "updated_at": "2026-11-04T09:47:04Z",
       "license": "AGPL-3.0",
       "topics": [
         "adhd-friendly",
@@ -2005,13 +1989,13 @@
       "relation": "starred",
       "full_name": "alirezarezvani/claude-skills",
       "html_url": "https://github.com/alirezarezvani/claude-skills",
-      "description": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+      "description": "410 Claude Code skills & agent skills & plugins (120+ Agents, custom commands, 410+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
       "fork": false,
       "private": false,
       "archived": false,
       "language": "Python",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:20:38Z",
+      "updated_at": "2026-11-04T12:15:15Z",
       "license": "MIT",
       "topics": [
         "agent-plugins",
@@ -2047,7 +2031,7 @@
       "archived": false,
       "language": "TypeScript",
       "default_branch": "dev",
-      "updated_at": "2026-10-23T09:23:31Z",
+      "updated_at": "2026-11-04T12:18:23Z",
       "license": "MIT",
       "topics": [],
       "starred": true
@@ -2062,7 +2046,7 @@
       "archived": false,
       "language": "TypeScript",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:21:56Z",
+      "updated_at": "2026-11-04T12:15:04Z",
       "license": null,
       "topics": [],
       "starred": true
@@ -2077,7 +2061,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:25:12Z",
+      "updated_at": "2026-11-04T12:18:00Z",
       "license": null,
       "topics": [
         "agent-skills"
@@ -2094,7 +2078,7 @@
       "archived": false,
       "language": "C",
       "default_branch": "main",
-      "updated_at": "2026-10-23T08:44:43Z",
+      "updated_at": "2026-11-04T12:07:38Z",
       "license": "NOASSERTION",
       "topics": [
         "3d",
@@ -2119,7 +2103,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:20:42Z",
+      "updated_at": "2026-11-04T11:46:32Z",
       "license": "CC0-1.0",
       "topics": [
         "ai",
@@ -2155,7 +2139,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:21:01Z",
+      "updated_at": "2026-11-04T12:14:43Z",
       "license": "MIT",
       "topics": [
         "adhd",
@@ -2177,7 +2161,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "master",
-      "updated_at": "2026-10-23T08:57:10Z",
+      "updated_at": "2026-11-04T11:41:36Z",
       "license": "GPL-3.0",
       "topics": [
         "academic",
@@ -2198,7 +2182,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:19:41Z",
+      "updated_at": "2026-11-04T12:18:15Z",
       "license": "MIT",
       "topics": [
         "agent-skills",
@@ -2227,7 +2211,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:22:51Z",
+      "updated_at": "2026-11-04T11:39:27Z",
       "license": "CC0-1.0",
       "topics": [
         "awesome-list",
@@ -2246,7 +2230,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:19:36Z",
+      "updated_at": "2026-11-04T12:09:08Z",
       "license": "MIT",
       "topics": [
         "ai-agents",
@@ -2279,7 +2263,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:18:47Z",
+      "updated_at": "2026-11-04T12:16:18Z",
       "license": "MIT",
       "topics": [
         "agent",
@@ -2313,7 +2297,7 @@
       "archived": false,
       "language": "Go",
       "default_branch": "master",
-      "updated_at": "2026-10-23T08:59:59Z",
+      "updated_at": "2026-11-04T12:09:34Z",
       "license": "Apache-2.0",
       "topics": [
         "acme",
@@ -2344,7 +2328,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:19:38Z",
+      "updated_at": "2026-11-04T12:16:08Z",
       "license": "AGPL-3.0",
       "topics": [
         "agent",
@@ -2379,7 +2363,7 @@
       "archived": false,
       "language": null,
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:26:15Z",
+      "updated_at": "2026-11-04T11:50:01Z",
       "license": "MIT",
       "topics": [
         "api",
@@ -2403,7 +2387,7 @@
       "archived": false,
       "language": "TypeScript",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:10:54Z",
+      "updated_at": "2026-11-04T11:09:55Z",
       "license": "GPL-3.0",
       "topics": [
         "assistant",
@@ -2431,7 +2415,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "master",
-      "updated_at": "2026-10-23T09:06:46Z",
+      "updated_at": "2026-11-04T12:10:52Z",
       "license": "Apache-2.0",
       "topics": [
         "chatbot",
@@ -2467,7 +2451,7 @@
       "archived": true,
       "language": "Python",
       "default_branch": "main",
-      "updated_at": "2026-10-23T07:53:15Z",
+      "updated_at": "2026-11-04T01:23:56Z",
       "license": null,
       "topics": [],
       "starred": true
@@ -2482,7 +2466,7 @@
       "archived": false,
       "language": "C",
       "default_branch": "main",
-      "updated_at": "2026-10-20T03:37:09Z",
+      "updated_at": "2026-11-02T15:36:17Z",
       "license": "BSD-3-Clause",
       "topics": [],
       "starred": true
@@ -2497,7 +2481,7 @@
       "archived": false,
       "language": "TypeScript",
       "default_branch": "dev",
-      "updated_at": "2026-10-23T09:14:13Z",
+      "updated_at": "2026-11-04T11:51:22Z",
       "license": "NOASSERTION",
       "topics": [
         "ai",
@@ -2528,7 +2512,7 @@
       "archived": false,
       "language": "Go",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:03:04Z",
+      "updated_at": "2026-11-04T12:04:53Z",
       "license": "AGPL-3.0",
       "topics": [
         "agents",
@@ -2554,7 +2538,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:15:30Z",
+      "updated_at": "2026-11-04T11:58:35Z",
       "license": "MIT",
       "topics": [
         "agents",
@@ -2575,7 +2559,7 @@
       "archived": false,
       "language": null,
       "default_branch": "main",
-      "updated_at": "2026-10-23T08:36:58Z",
+      "updated_at": "2026-11-04T11:34:05Z",
       "license": null,
       "topics": [],
       "starred": true
@@ -2590,7 +2574,7 @@
       "archived": false,
       "language": "MDX",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:10:53Z",
+      "updated_at": "2026-11-04T12:02:24Z",
       "license": "MIT",
       "topics": [
         "agent",
@@ -2617,7 +2601,7 @@
       "archived": false,
       "language": "HTML",
       "default_branch": "master",
-      "updated_at": "2026-10-22T17:55:45Z",
+      "updated_at": "2026-11-04T10:23:11Z",
       "license": null,
       "topics": [
         "architecture",
@@ -2643,7 +2627,7 @@
       "archived": false,
       "language": "JavaScript",
       "default_branch": "master",
-      "updated_at": "2026-10-23T09:17:26Z",
+      "updated_at": "2026-11-04T11:05:46Z",
       "license": "MIT",
       "topics": [
         "ai-agents",
@@ -2704,7 +2688,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "master",
-      "updated_at": "2026-10-23T09:25:50Z",
+      "updated_at": "2026-11-04T12:11:52Z",
       "license": "Apache-2.0",
       "topics": [
         "back-in-stock",
@@ -2740,7 +2724,7 @@
       "archived": false,
       "language": null,
       "default_branch": "main",
-      "updated_at": "2026-10-19T10:04:09Z",
+      "updated_at": "2026-11-03T20:09:34Z",
       "license": null,
       "topics": [
         "adhd",
@@ -2768,7 +2752,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:23:54Z",
+      "updated_at": "2026-11-04T10:26:08Z",
       "license": "MIT",
       "topics": [
         "ai",
@@ -2799,7 +2783,7 @@
       "archived": false,
       "language": null,
       "default_branch": "main",
-      "updated_at": "2026-10-23T08:55:08Z",
+      "updated_at": "2026-11-04T11:55:18Z",
       "license": "AGPL-3.0",
       "topics": [
         "agents",
@@ -2835,7 +2819,7 @@
       "archived": false,
       "language": null,
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:09:19Z",
+      "updated_at": "2026-11-04T12:13:19Z",
       "license": "AGPL-3.0",
       "topics": [
         "1337",
@@ -2868,7 +2852,7 @@
       "archived": false,
       "language": "TypeScript",
       "default_branch": "develop",
-      "updated_at": "2026-10-23T09:13:30Z",
+      "updated_at": "2026-11-04T07:25:37Z",
       "license": "MIT",
       "topics": [
         "agent",
@@ -2914,7 +2898,7 @@
       "archived": false,
       "language": "JavaScript",
       "default_branch": "main",
-      "updated_at": "2026-10-23T07:04:16Z",
+      "updated_at": "2026-11-04T09:46:27Z",
       "license": "NOASSERTION",
       "topics": [
         "ai",
@@ -2940,9 +2924,9 @@
       "fork": false,
       "private": false,
       "archived": false,
-      "language": "HTML",
+      "language": "MDX",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:18:06Z",
+      "updated_at": "2026-11-04T12:09:34Z",
       "license": "NOASSERTION",
       "topics": [
         "ai",
@@ -2976,7 +2960,7 @@
       "archived": false,
       "language": "TypeScript",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:26:14Z",
+      "updated_at": "2026-11-04T12:13:10Z",
       "license": "AGPL-3.0",
       "topics": [
         "ai",
@@ -3011,7 +2995,7 @@
       "archived": false,
       "language": "JavaScript",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:20:22Z",
+      "updated_at": "2026-11-04T12:18:56Z",
       "license": "MIT",
       "topics": [
         "agents",
@@ -3059,7 +3043,7 @@
       "archived": false,
       "language": null,
       "default_branch": "main",
-      "updated_at": "2026-10-23T02:38:09Z",
+      "updated_at": "2026-11-04T11:59:10Z",
       "license": "MIT",
       "topics": [
         "agents",
@@ -3125,7 +3109,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:23:14Z",
+      "updated_at": "2026-11-04T12:17:55Z",
       "license": "MIT",
       "topics": [
         "ai",
@@ -3148,7 +3132,7 @@
       "archived": false,
       "language": "TypeScript",
       "default_branch": "main",
-      "updated_at": "2026-10-23T08:38:09Z",
+      "updated_at": "2026-11-04T11:42:17Z",
       "license": "Apache-2.0",
       "topics": [
         "ai",
@@ -3171,7 +3155,7 @@
       "archived": false,
       "language": "JavaScript",
       "default_branch": "main",
-      "updated_at": "2026-10-23T03:20:21Z",
+      "updated_at": "2026-11-04T06:42:15Z",
       "license": "MIT",
       "topics": [
         "agent",
@@ -3203,7 +3187,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "master",
-      "updated_at": "2026-10-22T22:33:30Z",
+      "updated_at": "2026-11-03T10:42:29Z",
       "license": "MIT",
       "topics": [],
       "starred": true
@@ -3218,7 +3202,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "main",
-      "updated_at": "2026-10-23T08:37:53Z",
+      "updated_at": "2026-11-04T12:11:07Z",
       "license": "AGPL-3.0",
       "topics": [
         "ai",
@@ -3252,7 +3236,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:25:23Z",
+      "updated_at": "2026-11-04T12:12:20Z",
       "license": "Apache-2.0",
       "topics": [
         "agent",
@@ -3288,7 +3272,7 @@
       "archived": false,
       "language": "TypeScript",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:25:46Z",
+      "updated_at": "2026-11-04T12:17:38Z",
       "license": "Apache-2.0",
       "topics": [
         "ai",
@@ -3319,7 +3303,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "main",
-      "updated_at": "2026-10-23T08:48:33Z",
+      "updated_at": "2026-11-04T12:06:20Z",
       "license": "Apache-2.0",
       "topics": [
         "agent",
@@ -3355,7 +3339,7 @@
       "archived": false,
       "language": "Shell",
       "default_branch": "master",
-      "updated_at": "2026-10-22T11:47:50Z",
+      "updated_at": "2026-11-04T02:02:05Z",
       "license": null,
       "topics": [
         "bard",
@@ -3380,7 +3364,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:06:29Z",
+      "updated_at": "2026-11-04T12:15:12Z",
       "license": "Apache-2.0",
       "topics": [
         "audio",
@@ -3415,7 +3399,7 @@
       "archived": false,
       "language": null,
       "default_branch": "main",
-      "updated_at": "2026-10-22T17:52:59Z",
+      "updated_at": "2026-11-04T05:34:35Z",
       "license": null,
       "topics": [
         "chatgpt",
@@ -3429,18 +3413,18 @@
       "relation": "starred",
       "full_name": "infiniflow/ragflow",
       "html_url": "https://github.com/infiniflow/ragflow",
-      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "description": "RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.",
       "fork": false,
       "private": false,
       "archived": false,
       "language": "Go",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:15:26Z",
+      "updated_at": "2026-11-04T11:53:52Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-harness",
+        "agent-native-database",
         "agentic-ai",
-        "agentic-nagive",
         "agentic-retrieval",
         "agentic-search",
         "ai",
@@ -3466,7 +3450,7 @@
       "archived": false,
       "language": null,
       "default_branch": "main",
-      "updated_at": "2026-10-22T10:45:39Z",
+      "updated_at": "2026-11-04T12:13:29Z",
       "license": "MIT",
       "topics": [
         "active-recall",
@@ -3504,7 +3488,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:25:51Z",
+      "updated_at": "2026-11-04T12:15:51Z",
       "license": "MIT",
       "topics": [
         "ai",
@@ -3528,7 +3512,7 @@
       "archived": false,
       "language": "Swift",
       "default_branch": "master",
-      "updated_at": "2026-10-23T09:06:15Z",
+      "updated_at": "2026-11-04T11:26:01Z",
       "license": "CC0-1.0",
       "topics": [
         "app",
@@ -3564,7 +3548,7 @@
       "archived": false,
       "language": "C++",
       "default_branch": "main",
-      "updated_at": "2026-10-23T08:19:34Z",
+      "updated_at": "2026-11-04T11:32:30Z",
       "license": "NOASSERTION",
       "topics": [],
       "starred": true
@@ -3579,7 +3563,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "master",
-      "updated_at": "2026-10-23T09:00:46Z",
+      "updated_at": "2026-11-04T11:42:35Z",
       "license": null,
       "topics": [],
       "starred": true
@@ -3594,7 +3578,7 @@
       "archived": false,
       "language": "Go",
       "default_branch": "main",
-      "updated_at": "2026-10-22T16:38:12Z",
+      "updated_at": "2026-11-03T07:40:05Z",
       "license": "MIT",
       "topics": [
         "cursor",
@@ -3612,7 +3596,7 @@
       "archived": false,
       "language": "TypeScript",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:19:43Z",
+      "updated_at": "2026-11-04T12:18:36Z",
       "license": "AGPL-3.0",
       "topics": [
         "agent",
@@ -3640,7 +3624,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "master",
-      "updated_at": "2026-10-23T08:52:28Z",
+      "updated_at": "2026-11-04T12:08:51Z",
       "license": "Apache-2.0",
       "topics": [
         "agent",
@@ -3676,7 +3660,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "master",
-      "updated_at": "2026-10-23T09:22:32Z",
+      "updated_at": "2026-11-04T12:10:13Z",
       "license": "MIT",
       "topics": [
         "agents",
@@ -3712,7 +3696,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:11:13Z",
+      "updated_at": "2026-11-04T12:01:18Z",
       "license": "MIT",
       "topics": [
         "agents",
@@ -3746,7 +3730,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:02:34Z",
+      "updated_at": "2026-11-04T12:17:41Z",
       "license": "MIT",
       "topics": [
         "agents",
@@ -3768,7 +3752,7 @@
       "archived": false,
       "language": null,
       "default_branch": "main",
-      "updated_at": "2026-10-22T17:59:32Z",
+      "updated_at": "2026-11-04T11:33:10Z",
       "license": null,
       "topics": [
         "anthropic",
@@ -3800,7 +3784,7 @@
       "archived": false,
       "language": null,
       "default_branch": "main",
-      "updated_at": "2026-10-23T05:55:31Z",
+      "updated_at": "2026-11-04T12:02:36Z",
       "license": "MIT",
       "topics": [
         "chatgpt",
@@ -3825,7 +3809,7 @@
       "archived": false,
       "language": "Rust",
       "default_branch": "v2-dev",
-      "updated_at": "2026-10-23T07:40:28Z",
+      "updated_at": "2026-11-04T12:18:57Z",
       "license": null,
       "topics": [
         "ai",
@@ -3856,7 +3840,7 @@
       "archived": false,
       "language": null,
       "default_branch": "main",
-      "updated_at": "2026-10-21T22:41:20Z",
+      "updated_at": "2026-11-04T11:37:33Z",
       "license": "MIT",
       "topics": [],
       "starred": true
@@ -3871,7 +3855,7 @@
       "archived": false,
       "language": "JavaScript",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:19:27Z",
+      "updated_at": "2026-11-04T12:15:11Z",
       "license": "NOASSERTION",
       "topics": [
         "ai",
@@ -3907,7 +3891,7 @@
       "archived": false,
       "language": "TypeScript",
       "default_branch": "canary",
-      "updated_at": "2026-10-23T09:11:03Z",
+      "updated_at": "2026-11-04T12:15:00Z",
       "license": "NOASSERTION",
       "topics": [
         "agent",
@@ -3941,7 +3925,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "master",
-      "updated_at": "2026-10-23T08:53:59Z",
+      "updated_at": "2026-11-04T12:04:09Z",
       "license": "AGPL-3.0",
       "topics": [
         "bard",
@@ -3977,7 +3961,7 @@
       "archived": false,
       "language": "TypeScript",
       "default_branch": "main",
-      "updated_at": "2026-10-22T11:51:46Z",
+      "updated_at": "2026-10-28T23:36:40Z",
       "license": null,
       "topics": [
         "ai",
@@ -3999,7 +3983,7 @@
       "archived": false,
       "language": "Shell",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:26:01Z",
+      "updated_at": "2026-11-04T12:19:05Z",
       "license": "MIT",
       "topics": [],
       "starred": true
@@ -4014,7 +3998,7 @@
       "archived": false,
       "language": "Rust",
       "default_branch": "main",
-      "updated_at": "2026-10-23T07:30:10Z",
+      "updated_at": "2026-11-04T07:57:41Z",
       "license": "NOASSERTION",
       "topics": [
         "ai",
@@ -4050,7 +4034,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:00:04Z",
+      "updated_at": "2026-11-04T11:57:56Z",
       "license": "Apache-2.0",
       "topics": [
         "agentic-memory",
@@ -4095,7 +4079,7 @@
       "archived": false,
       "language": "Jupyter Notebook",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:15:13Z",
+      "updated_at": "2026-11-04T11:04:29Z",
       "license": "MIT",
       "topics": [
         "ai",
@@ -4121,7 +4105,7 @@
       "archived": false,
       "language": "Jupyter Notebook",
       "default_branch": "main",
-      "updated_at": "2026-10-23T08:58:46Z",
+      "updated_at": "2026-11-04T10:08:08Z",
       "license": "MIT",
       "topics": [
         "data-analysis",
@@ -4143,7 +4127,7 @@
       "archived": false,
       "language": "Jupyter Notebook",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:20:38Z",
+      "updated_at": "2026-11-04T12:18:25Z",
       "license": "MIT",
       "topics": [
         "agentic-ai",
@@ -4170,7 +4154,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:15:33Z",
+      "updated_at": "2026-11-04T11:42:52Z",
       "license": "CC-BY-4.0",
       "topics": [
         "agentic",
@@ -4196,7 +4180,7 @@
       "archived": false,
       "language": "Jupyter Notebook",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:22:32Z",
+      "updated_at": "2026-11-04T12:00:40Z",
       "license": "MIT",
       "topics": [
         "ai",
@@ -4226,7 +4210,7 @@
       "archived": false,
       "language": "TypeScript",
       "default_branch": "main",
-      "updated_at": "2026-10-23T08:33:20Z",
+      "updated_at": "2026-11-04T09:58:49Z",
       "license": "Apache-2.0",
       "topics": [
         "chatgpt",
@@ -4243,23 +4227,23 @@
       "relation": "starred",
       "full_name": "mohitagw15856/pm-claude-skills",
       "html_url": "https://github.com/mohitagw15856/pm-claude-skills",
-      "description": "1255 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor & Codex — PRDs, postmortems, leases, medical bills, layoffs, go-bags, new countries. Plain markdown, MIT, in Anthropic's plugin directory. Plus a typed decision layer: which skill, is it safe, ship or slip. Free in-browser or npx pm-claude-skills add.",
+      "description": "1,310 professional Agent Skills for Claude, Claude Duet, ChatGPT, Gemini, Cursor & Codex: PRDs, postmortems, leases, medical bills, payroll checks, morning briefs. 21 skills built for always-on agents like Claude Duet. Plain markdown, MIT, in Anthropic's plugin directory. Free in-browser or npx pm-claude-skills add.",
       "fork": false,
       "private": false,
       "archived": false,
       "language": "HTML",
       "default_branch": "main",
-      "updated_at": "2026-10-23T07:11:14Z",
+      "updated_at": "2026-11-04T11:52:03Z",
       "license": "MIT",
       "topics": [
         "agent-skills",
-        "agents",
         "ai-agents",
         "ai-tools",
         "anthropic",
         "chatgpt",
         "claude",
         "claude-code",
+        "claude-duet",
         "claude-skills",
         "cursor",
         "developer-tools",
@@ -4267,10 +4251,10 @@
         "llm",
         "mcp",
         "mcp-server",
+        "proactive-agents",
         "product-management",
         "productivity",
         "prompt-engineering",
-        "prompts",
         "skills"
       ],
       "starred": true
@@ -4285,7 +4269,7 @@
       "archived": false,
       "language": null,
       "default_branch": "master",
-      "updated_at": "2026-10-23T08:39:13Z",
+      "updated_at": "2026-11-02T15:23:23Z",
       "license": "CC0-1.0",
       "topics": [
         "adhd",
@@ -4303,7 +4287,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:14:28Z",
+      "updated_at": "2026-11-04T12:15:06Z",
       "license": "MIT",
       "topics": [
         "ai-prompts",
@@ -4339,7 +4323,7 @@
       "archived": false,
       "language": "TypeScript",
       "default_branch": "master",
-      "updated_at": "2026-10-23T09:26:14Z",
+      "updated_at": "2026-11-04T12:13:42Z",
       "license": "NOASSERTION",
       "topics": [
         "ai",
@@ -4375,7 +4359,7 @@
       "archived": false,
       "language": "Go",
       "default_branch": "master",
-      "updated_at": "2026-10-23T09:25:12Z",
+      "updated_at": "2026-11-04T12:08:23Z",
       "license": "GPL-3.0",
       "topics": [
         "ai",
@@ -4411,7 +4395,7 @@
       "archived": false,
       "language": "TypeScript",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:17:17Z",
+      "updated_at": "2026-11-04T12:05:40Z",
       "license": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -4447,7 +4431,7 @@
       "archived": false,
       "language": "Shell",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:25:27Z",
+      "updated_at": "2026-11-04T12:19:07Z",
       "license": "MIT",
       "topics": [
         "ai",
@@ -4469,9 +4453,9 @@
       "fork": false,
       "private": false,
       "archived": false,
-      "language": "Python",
+      "language": "Svelte",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:07:42Z",
+      "updated_at": "2026-11-04T12:17:10Z",
       "license": "NOASSERTION",
       "topics": [
         "ai",
@@ -4502,7 +4486,7 @@
       "archived": false,
       "language": "Rust",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:15:04Z",
+      "updated_at": "2026-11-04T12:16:53Z",
       "license": "Apache-2.0",
       "topics": [],
       "starred": true
@@ -4517,7 +4501,7 @@
       "archived": false,
       "language": "Jupyter Notebook",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:04:34Z",
+      "updated_at": "2026-11-04T11:46:59Z",
       "license": "MIT",
       "topics": [
         "chatgpt",
@@ -4537,7 +4521,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "develop",
-      "updated_at": "2026-10-23T08:55:31Z",
+      "updated_at": "2026-11-04T12:08:01Z",
       "license": "NOASSERTION",
       "topics": [
         "ai",
@@ -4566,7 +4550,7 @@
       "archived": false,
       "language": "TypeScript",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:24:38Z",
+      "updated_at": "2026-11-04T12:16:28Z",
       "license": "MIT",
       "topics": [
         "ai",
@@ -4604,7 +4588,7 @@
       "archived": false,
       "language": "Kotlin",
       "default_branch": "main",
-      "updated_at": "2026-10-23T07:41:55Z",
+      "updated_at": "2026-11-04T10:25:21Z",
       "license": "BSD-2-Clause",
       "topics": [
         "android",
@@ -4667,7 +4651,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "main",
-      "updated_at": "2026-10-22T11:55:04Z",
+      "updated_at": "2026-11-03T08:01:39Z",
       "license": "Apache-2.0",
       "topics": [
         "chatgpt",
@@ -4703,7 +4687,7 @@
       "archived": true,
       "language": "TypeScript",
       "default_branch": "main",
-      "updated_at": "2026-10-21T17:54:13Z",
+      "updated_at": "2026-11-01T18:22:53Z",
       "license": "Apache-2.0",
       "topics": [
         "llm",
@@ -4725,7 +4709,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "master",
-      "updated_at": "2026-10-23T09:26:13Z",
+      "updated_at": "2026-11-04T12:11:37Z",
       "license": "MIT",
       "topics": [
         "api",
@@ -4754,7 +4738,7 @@
       "archived": false,
       "language": null,
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:25:15Z",
+      "updated_at": "2026-11-04T11:56:44Z",
       "license": "MIT",
       "topics": [
         "ai",
@@ -4772,7 +4756,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "master",
-      "updated_at": "2026-10-23T02:13:52Z",
+      "updated_at": "2026-11-04T09:27:52Z",
       "license": "GPL-3.0",
       "topics": [
         "bot",
@@ -4793,7 +4777,7 @@
       "archived": false,
       "language": "Jupyter Notebook",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:08:44Z",
+      "updated_at": "2026-11-04T12:11:43Z",
       "license": "NOASSERTION",
       "topics": [
         "ai",
@@ -4828,7 +4812,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "main",
-      "updated_at": "2026-10-23T06:19:32Z",
+      "updated_at": "2026-11-01T11:03:01Z",
       "license": "MIT",
       "topics": [
         "adhd",
@@ -4849,7 +4833,7 @@
       "archived": false,
       "language": "TypeScript",
       "default_branch": "main",
-      "updated_at": "2026-10-23T05:42:31Z",
+      "updated_at": "2026-11-04T10:04:29Z",
       "license": "MIT",
       "topics": [
         "ai-prompt",
@@ -4885,7 +4869,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:23:44Z",
+      "updated_at": "2026-11-04T12:09:20Z",
       "license": "MIT",
       "topics": [
         "agents",
@@ -4921,7 +4905,7 @@
       "archived": false,
       "language": "Rust",
       "default_branch": "master",
-      "updated_at": "2026-10-23T09:25:23Z",
+      "updated_at": "2026-11-04T12:14:15Z",
       "license": "AGPL-3.0",
       "topics": [
         "android",
@@ -4956,7 +4940,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "master",
-      "updated_at": "2026-10-23T09:25:44Z",
+      "updated_at": "2026-11-04T11:50:05Z",
       "license": "GPL-3.0",
       "topics": [
         "ai",
@@ -4988,7 +4972,7 @@
       "archived": false,
       "language": null,
       "default_branch": "main",
-      "updated_at": "2026-10-22T14:57:01Z",
+      "updated_at": "2026-11-03T23:01:20Z",
       "license": "MIT",
       "topics": [
         "ai",
@@ -5013,7 +4997,7 @@
       "archived": false,
       "language": "JavaScript",
       "default_branch": "master",
-      "updated_at": "2026-10-21T16:44:39Z",
+      "updated_at": "2026-11-02T22:07:39Z",
       "license": null,
       "topics": [],
       "starred": true
@@ -5028,7 +5012,7 @@
       "archived": false,
       "language": "HTML",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:11:00Z",
+      "updated_at": "2026-11-04T12:19:05Z",
       "license": "MIT",
       "topics": [
         "agentic-ai",
@@ -5058,13 +5042,13 @@
       "relation": "starred",
       "full_name": "sickn33/agentic-awesome-skills",
       "html_url": "https://github.com/sickn33/agentic-awesome-skills",
-      "description": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
+      "description": "2,884+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.",
       "fork": false,
       "private": false,
       "archived": false,
       "language": "Python",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:21:32Z",
+      "updated_at": "2026-11-04T11:26:21Z",
       "license": "MIT",
       "topics": [
         "agent-skills",
@@ -5119,7 +5103,7 @@
       "archived": false,
       "language": null,
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:25:43Z",
+      "updated_at": "2026-11-04T12:16:49Z",
       "license": "CC0-1.0",
       "topics": [
         "awesome",
@@ -5140,7 +5124,7 @@
       "archived": false,
       "language": "TypeScript",
       "default_branch": "main",
-      "updated_at": "2026-10-23T08:25:02Z",
+      "updated_at": "2026-11-04T12:10:55Z",
       "license": "AGPL-3.0",
       "topics": [
         "anthropic",
@@ -5168,7 +5152,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "main",
-      "updated_at": "2026-10-22T11:57:18Z",
+      "updated_at": "2026-11-02T13:52:13Z",
       "license": "NOASSERTION",
       "topics": [
         "awesome",
@@ -5203,7 +5187,7 @@
       "archived": false,
       "language": "JavaScript",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:15:35Z",
+      "updated_at": "2026-11-04T12:17:41Z",
       "license": "MIT",
       "topics": [
         "api",
@@ -5249,7 +5233,7 @@
       "archived": false,
       "language": "TypeScript",
       "default_branch": "master",
-      "updated_at": "2026-10-23T09:26:18Z",
+      "updated_at": "2026-11-04T11:45:15Z",
       "license": "Apache-2.0",
       "topics": [
         "ai",
@@ -5284,7 +5268,7 @@
       "archived": false,
       "language": null,
       "default_branch": "master",
-      "updated_at": "2026-10-17T19:51:53Z",
+      "updated_at": "2026-10-25T15:41:51Z",
       "license": "CC0-1.0",
       "topics": [
         "awesome",
@@ -5312,7 +5296,7 @@
       "archived": false,
       "language": "C++",
       "default_branch": "dev",
-      "updated_at": "2026-10-23T09:18:08Z",
+      "updated_at": "2026-11-04T11:00:58Z",
       "license": "GPL-3.0",
       "topics": [
         "messenger",
@@ -5333,7 +5317,7 @@
       "archived": false,
       "language": "JavaScript",
       "default_branch": "master",
-      "updated_at": "2026-10-22T12:29:20Z",
+      "updated_at": "2026-11-03T09:24:13Z",
       "license": "MIT",
       "topics": [
         "choice",
@@ -5357,7 +5341,7 @@
       "archived": false,
       "language": "TypeScript",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:25:21Z",
+      "updated_at": "2026-11-04T12:16:24Z",
       "license": "Apache-2.0",
       "topics": [
         "ai",
@@ -5393,7 +5377,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "main",
-      "updated_at": "2026-10-21T18:48:10Z",
+      "updated_at": "2026-11-03T08:01:53Z",
       "license": "Apache-2.0",
       "topics": [
         "ai",
@@ -5425,7 +5409,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "master",
-      "updated_at": "2026-10-23T07:53:41Z",
+      "updated_at": "2026-11-04T05:30:23Z",
       "license": "NOASSERTION",
       "topics": [
         "cli",
@@ -5453,40 +5437,6 @@
     },
     {
       "relation": "starred",
-      "full_name": "tradecatlabs/vibe-coding-cn",
-      "html_url": "https://github.com/tradecatlabs/vibe-coding-cn",
-      "description": "Vibe Coding 非严肃开发的从入门到门入的工具箱",
-      "fork": false,
-      "private": false,
-      "archived": false,
-      "language": "Makefile",
-      "default_branch": "main",
-      "updated_at": "2026-10-23T09:16:52Z",
-      "license": "MIT",
-      "topics": [
-        "ai",
-        "ai-agent",
-        "ai-agents",
-        "ai-coding",
-        "ai-programming",
-        "chinese",
-        "claude-code",
-        "codex",
-        "cursor",
-        "developer-tools",
-        "gemini-cli",
-        "glue-coding",
-        "prompt-engineering",
-        "prompts",
-        "skills",
-        "tutorial",
-        "vibe-coding",
-        "workflow"
-      ],
-      "starred": true
-    },
-    {
-      "relation": "starred",
       "full_name": "tw93/Pake",
       "html_url": "https://github.com/tw93/Pake",
       "description": "Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux.",
@@ -5495,7 +5445,7 @@
       "archived": false,
       "language": "Rust",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:02:37Z",
+      "updated_at": "2026-11-04T10:47:22Z",
       "license": "GPL-3.0",
       "topics": [
         "chatgpt",
@@ -5544,7 +5494,7 @@
       "archived": false,
       "language": "Rust",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:12:43Z",
+      "updated_at": "2026-11-04T12:15:52Z",
       "license": "MIT",
       "topics": [],
       "starred": true
@@ -5553,17 +5503,18 @@
       "relation": "starred",
       "full_name": "unclecode/crawl4ai",
       "html_url": "https://github.com/unclecode/crawl4ai",
-      "description": "Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. Join our Discord https://discord.gg/VuxzM8mtf",
+      "description": "Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for AI agents. Free API key, 1,000 credits a month, no card. Fully open source: this repo is the Apache-2.0 crawler that powers it, and you can self-host it.",
       "fork": false,
       "private": false,
       "archived": false,
       "language": "Python",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:24:00Z",
+      "updated_at": "2026-11-04T12:13:46Z",
       "license": "Apache-2.0",
       "topics": [
         "ai",
         "ai-agents",
+        "crawl4ai-cloud",
         "crawler",
         "data-extraction",
         "llm",
@@ -5590,7 +5541,7 @@
       "archived": false,
       "language": "Go",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:17:12Z",
+      "updated_at": "2026-11-04T10:25:34Z",
       "license": "MIT",
       "topics": [
         "docker",
@@ -5620,7 +5571,7 @@
       "archived": false,
       "language": "TypeScript",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:15:31Z",
+      "updated_at": "2026-11-04T10:18:47Z",
       "license": "AGPL-3.0",
       "topics": [
         "ai-agents",
@@ -5656,7 +5607,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "master",
-      "updated_at": "2026-10-23T09:26:09Z",
+      "updated_at": "2026-11-04T12:16:52Z",
       "license": "NOASSERTION",
       "topics": [
         "awesome",
@@ -5678,7 +5629,7 @@
       "archived": true,
       "language": "TypeScript",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:10:43Z",
+      "updated_at": "2026-11-03T19:21:11Z",
       "license": "Apache-2.0",
       "topics": [
         "chatgpt",
@@ -5706,7 +5657,7 @@
       "archived": false,
       "language": null,
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:06:52Z",
+      "updated_at": "2026-11-04T12:18:22Z",
       "license": "GPL-3.0",
       "topics": [
         "ai",
@@ -5742,7 +5693,7 @@
       "archived": false,
       "language": "TypeScript",
       "default_branch": "main",
-      "updated_at": "2026-10-23T08:30:05Z",
+      "updated_at": "2026-11-04T08:58:07Z",
       "license": "MIT",
       "topics": [
         "ai",
@@ -5778,7 +5729,7 @@
       "archived": false,
       "language": "Shell",
       "default_branch": "master",
-      "updated_at": "2026-10-23T08:25:55Z",
+      "updated_at": "2026-11-04T12:13:56Z",
       "license": "MIT",
       "topics": [
         "cursor",
@@ -5796,7 +5747,7 @@
       "archived": false,
       "language": "TypeScript",
       "default_branch": "master",
-      "updated_at": "2026-10-23T09:13:06Z",
+      "updated_at": "2026-11-04T04:01:33Z",
       "license": "MIT",
       "topics": [
         "agent",
@@ -5832,7 +5783,7 @@
       "archived": false,
       "language": "Go",
       "default_branch": "main",
-      "updated_at": "2026-10-23T09:23:11Z",
+      "updated_at": "2026-11-04T10:38:59Z",
       "license": "AGPL-3.0",
       "topics": [
         "2fa",
@@ -5865,7 +5816,7 @@
       "archived": false,
       "language": "Python",
       "default_branch": "main",
-      "updated_at": "2026-10-23T08:54:31Z",
+      "updated_at": "2026-11-04T11:30:56Z",
       "license": "Apache-2.0",
       "topics": [
         "ai",
