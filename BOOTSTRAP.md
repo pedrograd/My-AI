@@ -29,6 +29,8 @@ When sources disagree:
 
 ## Repository discovery
 
+For owner-authorized private cross-repository reuse, also consult [the private routing bridge](docs/PRIVATE_REPO_BRIDGE.md). A fork is only a reviewed candidate, never an installed integration; do not assume this public repository grants private GitHub access.
+
 Before introducing a new framework, dependency, service or pattern:
 
 - Search `AI_KNOWLEDGE_BASE.md`.
