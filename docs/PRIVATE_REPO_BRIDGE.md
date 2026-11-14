@@ -17,4 +17,4 @@ A fork, star, package name or GitHub repository means only that source metadata 
 
 Public project catalog `generated/github_catalog.json` has fork fields for some public repos, but is a snapshot, can be stale, and intentionally does not include private code. When GitHub Actions has quota/billing restrictions, the catalog refresh cannot be presumed current.
 
-**Current status (2026-11-09):** private integration router is prepared in a review branch and is **not merged or deployed**. This public bridge is also a draft until its PR is reviewed. Other LLMs do not automatically receive this text or private repository access.
+**Verified status (2026-11-14):** the private repository router was merged in `pedrograd/pedrograd-ai-os` via private PR #5, and its `config/repository_routes.json` and `scripts/repo_router.py` exist on `main`. It remains an **offline review-only** router, not an installed, continuously running or cross-provider integration. This public document grants no additional permissions; other LLMs do not automatically receive it or gain private repository access.
